@@ -25,6 +25,9 @@ bld/
 # Visual Studo 2015 cache/options directory
 .vs/
 
+# SandCastle user file
+*.shfbproj_*
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*

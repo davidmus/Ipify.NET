@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0164ed8f-1009-470f-b6ae-651aab630095" Title="Ipify Namespace" Url="html/6b775e4e-156b-dcf6-5eee-a2d28984446c.htm">
+    <HelpTOCNode Id="78c1b3c8-8f39-44b1-9625-c1b73fbac9ba" Title="Ipify Class" Url="html/4ec0adef-4945-67cc-a658-82057ea1c7d7.htm">
+      <HelpTOCNode Title="Ipify Members" Url="html/ae47a78c-f9ad-8ab0-eb7f-df3a402bf65d.htm" />
+      <HelpTOCNode Id="d8e1092f-819a-4928-8a65-21e710c9fdd3" Title="Ipify Methods" Url="html/ef23c770-86e9-dfb6-757a-8c32595d0f91.htm">
+        <HelpTOCNode Title="GetPublicAddress Method " Url="html/0fca09d2-9781-d3a8-3c60-2e41ab107fea.htm" />
+        <HelpTOCNode Title="GetPublicIPAddress Method " Url="html/70ec12cc-bc74-cf1b-d54c-96b6e437d3d4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
