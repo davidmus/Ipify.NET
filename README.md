@@ -29,7 +29,7 @@ class Program
 {
     static void main(string[] args)
 	{
-		Console.WriteLine(Ipify.GetAddress());
+		Console.WriteLine(Ipify.GetPublicAddress());
 	}
 }
 ```
